@@ -1,14 +1,4 @@
-```python
-a = 10
-b = 20
-print(a * b)
-```
+- [x] Completed introduction to Github course
+- [ ] Completed the markdown course 
 
-```c
-#include <stdio.h>
-
-int main(){
-  printf("Hello World!");
-}
-```
 
